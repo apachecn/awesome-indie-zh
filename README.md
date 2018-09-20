@@ -17,6 +17,7 @@
 *   [数字游民部落](https://jarodise.com/) - 普及数字游民理念
 *   [SideIdea](http://sideidea.com/) - 展示现有的独立开发案例
 *   [Nomad List](https://nomadlist.com/) - 适合自由职业的城市
+*   [角马原力](https://www.gnuforce.com/) - 适合远程工作者的综合性平台
 
 ## 贡献指南
 
