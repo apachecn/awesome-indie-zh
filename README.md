@@ -5,20 +5,32 @@
 ## 目录
 
 +   项目平台
++   项目平台（非技术）
++   通证内容平台
 +   远程工作招聘平台
 +   其它
 
-### 项目平台
+## 项目平台
 
 *   [TopCoder](https://www.topcoder.com/)
 *   [Freelancer](https://www.freelancer.com/)
 
-### 远程工作招聘平台
+## 项目平台（非技术）
+
+*   [阿里众包](https://m.taobao.com/job/cloud-work/index.html)
+
+## 通证内容平台
+
+（这些平台已经经过了通证改造，以后可能能将通证兑换成法币。）
+
+*   [简书](https://www.jianshu.com/)
+
+## 远程工作招聘平台
 
 *   [远程.work](https://yuancheng.work/)
 *   [一早一晚](https://yizaoyiwan.com/)
 
-### 其它
+## 其它
 
 *   [数字游民部落](https://jarodise.com/) - 普及数字游民理念
 *   [SideIdea](http://sideidea.com/) - 展示现有的独立开发案例
