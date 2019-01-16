@@ -24,6 +24,10 @@
 （这些平台已经经过了通证改造，以后可能能将通证兑换成法币。）
 
 *   [简书](https://www.jianshu.com/)
+*   [天涯](http://focus.tianya.cn/)
+*   [币乎](https://bihu.com/)
+*   [steemit](https://steemit.com/)
+*   [Primas](https://primas.io/)
 
 ## 远程工作招聘平台
 
