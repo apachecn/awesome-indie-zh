@@ -14,10 +14,16 @@
 
 *   [TopCoder](https://www.topcoder.com/)
 *   [Freelancer](https://www.freelancer.com/)
+*   [码易众包](https://www.mayigeek.com/)
 
 ## 项目平台（非技术）
 
 *   [阿里众包](https://m.taobao.com/job/cloud-work/index.html)
+*   [有道众包](http://zb.youdao.com/)
+*   [百度知道合伙人](https://zhidao.baidu.com/home/partnerhome)
+*   [第一调查网](http://www.1diaocha.com/)
+*   [集思网](https://www.opinionworld.cn/zh-cn)
+*   [自由人](http://www.freemancn.com/)
 
 ## 通证内容平台
 
