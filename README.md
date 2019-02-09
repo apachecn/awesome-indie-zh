@@ -4,30 +4,49 @@
 
 ## 目录
 
-+   项目平台
-+   项目平台（非技术）
-+   通证内容平台
++   技术类众包平台
++   综合类众包平台
++   调查问卷
++   内容平台
 +   远程工作招聘平台
 +   其它
 
-## 项目平台
+## 技术类众包平台
 
 *   [TopCoder](https://www.topcoder.com/)
 *   [Freelancer](https://www.freelancer.com/)
 *   [码易众包](https://www.mayigeek.com/)
 
-## 项目平台（非技术）
+## 综合类众包平台
 
 *   [阿里众包](https://m.taobao.com/job/cloud-work/index.html)
 *   [有道众包](http://zb.youdao.com/)
-*   [百度知道合伙人](https://zhidao.baidu.com/home/partnerhome)
+*   [自由人](http://www.freemancn.com/)
+*   [一品威客](http://zt.epwk.com/)
+*   [斗米兼职](http://www.doumi.com/)
+*   [兼职吧](http://www.jianzhi8.com/)
+*   [58 同城兼职](https://bj.58.com/jianzhi.shtml)
+*   [微差事](http://www.weichaishi.com/)
+*   [爱标客](http://mp.iflytek.com/)
+*   [猪八戒网](https://beijing.zbj.com/)
+
+## 调查问卷
+
 *   [第一调查网](http://www.1diaocha.com/)
 *   [集思网](https://www.opinionworld.cn/zh-cn)
-*   [自由人](http://www.freemancn.com/)
+*   [ClixSense](https://www.clixsense.com/)
+*   [爱调查](http://www.52survey.com/index.mdq)
+*   [集思吧](https://www.jisibar.com/)
+*   [调研邦](http://www.diaoyanbang.net/)
+*   [投吧](http://www.votebar.com/)
 
-## 通证内容平台
+## 内容平台
 
-（这些平台已经经过了通证改造，以后可能能将通证兑换成法币。）
+*   [百度知道合伙人](https://zhidao.baidu.com/home/partnerhome)
+*   [中国写手之家](http://www.xs91.net/)
+*   [豆瓣稿费银行](https://www.douban.com/group/TGYGXZ/)
+
+（以下平台已经经过了通证改造，以后可能能将通证兑换成法币。）
 
 *   [简书](https://www.jianshu.com/)
 *   [天涯](http://focus.tianya.cn/)
@@ -46,10 +65,3 @@
 *   [SideIdea](http://sideidea.com/) - 展示现有的独立开发案例
 *   [Nomad List](https://nomadlist.com/) - 适合自由职业的城市
 *   [角马原力](https://www.gnuforce.com/) - 适合远程工作者的综合性平台
-
-## 贡献指南
-
-本项目仍在建设中，希望大家贡献以下内容：
-
-+   成熟的分类法，不仅仅是“项目平台和其它”。
-+   具体内容，特别是项目管理和商业相关内容。
