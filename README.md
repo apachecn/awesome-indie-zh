@@ -21,6 +21,8 @@
 
 *   [阿里众包](https://m.taobao.com/job/cloud-work/index.html)
 *   [有道众包](http://zb.youdao.com/)
+*   [百度掘金](http://juejin.baidu.com/)
+*   [腾讯搜活帮](https://soho.qq.com)
 *   [自由人](http://www.freemancn.com/)
 *   [一品威客](http://zt.epwk.com/)
 *   [斗米兼职](http://www.doumi.com/)
@@ -29,6 +31,8 @@
 *   [微差事](http://www.weichaishi.com/)
 *   [爱标客](http://mp.iflytek.com/)
 *   [猪八戒网](https://beijing.zbj.com/)
+*   [趣头条](https://mp.qutoutiao.net)
+*   [众人帮](http://www.jianzhiku.com/)
 
 ## 调查问卷
 
@@ -42,9 +46,16 @@
 
 ## 内容平台
 
+*   [头条号](https://mp.toutiao.com)
+*   [企鹅号](https://om.qq.com)
+*   [大鱼号](https://mp.dayu.com)
+*   [百家号](https://baijiahao.baidu.com)
 *   [百度知道合伙人](https://zhidao.baidu.com/home/partnerhome)
 *   [中国写手之家](http://www.xs91.net/)
 *   [豆瓣稿费银行](https://www.douban.com/group/TGYGXZ/)
+*   [How 问答](http://www.prettyyes.com/)
+*   [芝麻问答](https://www.zhimawenda.com/)
+*   [悟空问答](https://www.wukong.com/)
 
 （以下平台已经经过了通证改造，以后可能能将通证兑换成法币。）
 
@@ -65,3 +76,4 @@
 *   [SideIdea](http://sideidea.com/) - 展示现有的独立开发案例
 *   [Nomad List](https://nomadlist.com/) - 适合自由职业的城市
 *   [角马原力](https://www.gnuforce.com/) - 适合远程工作者的综合性平台
+*   [中国低线城市（或称三四线城市）的机会](https://github.com/xunyun/Lower-tier_Cities_in_China)
