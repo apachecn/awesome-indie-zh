@@ -111,3 +111,4 @@
 *   [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources.
 *   [NODESK](https://nodesk.co/) - A curated collection of resources for the digital nomad, remote worker and traveling professional.
 *   [中国远程工作资料大全](https://github.com/greatghoul/remote-working) - 另一个 Github Awesome List
+*   [自学 Python 之后如果不去公司上班，自己一个人可以通过此技能挣什么钱？（@小猪）](docs/自学%20Python%20之后如果不去公司上班，自己一个人可以通过此技能挣什么钱？.md)
