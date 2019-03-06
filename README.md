@@ -11,6 +11,7 @@
 +   交流平台
 +   博客和媒体
 +   资源清单
++   短篇
 
 ## 技术类众包平台
 
@@ -112,3 +113,14 @@
 *   [NODESK](https://nodesk.co/) - A curated collection of resources for the digital nomad, remote worker and traveling professional.
 *   [中国远程工作资料大全](https://github.com/greatghoul/remote-working) - 另一个 Github Awesome List
 *   [自学 Python 之后如果不去公司上班，自己一个人可以通过此技能挣什么钱？（@小猪）](docs/自学%20Python%20之后如果不去公司上班，自己一个人可以通过此技能挣什么钱？.md)
+
+## 短篇
+
++   [资本主义个人反抗指南（一）：街区，社区与空间马克思主义](https://www.douban.com/note/573801896/)
++   [资本主义个人反抗指南（二）：没有断舍离的二十一世纪消费主义](https://www.douban.com/note/577724310/)
++   [资本主义个人反抗指南（三）情境主义和资本的规则](https://www.douban.com/note/578752032/)
++   [资本主义个人反抗指南（四）多边关系和扒掉理财概念的底裤--卧室里的反抗](https://www.douban.com/note/578772131/)
++   [资本主义个人反抗指南（五）生命、生育：我们和世界的联系](https://www.douban.com/note/581214792/)
++   [资本主义个人反抗指南（六）砸烂新自由主义婚姻平等观的狗头：没有女权主义就没有个人反抗](https://www.douban.com/note/582876902/)
++   [资本主义个人反抗指南（七）关于债务的一切：以恶魔之名](https://www.douban.com/note/691925845/)
++   [资本主义个人反抗指南（八）奋斗逼：内卷的老百姓和宫女的小确幸](https://www.douban.com/note/709082357/)
