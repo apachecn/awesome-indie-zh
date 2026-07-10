@@ -125,3 +125,7 @@
 +   [资本主义个人反抗指南（六）砸烂新自由主义婚姻平等观的狗头：没有女权主义就没有个人反抗](https://www.douban.com/note/582876902/)
 +   [资本主义个人反抗指南（七）关于债务的一切：以恶魔之名](https://www.douban.com/note/691925845/)
 +   [资本主义个人反抗指南（八）奋斗逼：内卷的老百姓和宫女的小确幸](https://www.douban.com/note/709082357/)
+
+## Companion Resources (Fan-Maintained)
+
+- [Meccha Chameleon Atlas](https://mecchachameleon.art/) — Fan-maintained hide-spots reference, paint-match notes, and seeker counter-tips for the paint-based hide-and-seek game Meccha Chameleon. Unofficial, not affiliated with the developer.
