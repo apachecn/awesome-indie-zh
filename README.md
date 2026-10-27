@@ -92,6 +92,7 @@
 
 ## 博客和媒体
 
+*   [Income Claim Check](https://money.taoliapp.com/) - Fact-checks of indie-hacker income screenshots: payment-verified when possible, sources linked.
 *   [数字游民部落](https://jarodise.com/) - 普及数字游民理念
 *   [朝露](http://www.littledew.com/) - 自由工作生涯的探索之路
 *   [知乎专栏 - Remote and Rich](https://zhuanlan.zhihu.com/remoteandrich) - 关于边工作边环游世界的探讨和追逐。
