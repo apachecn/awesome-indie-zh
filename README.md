@@ -112,6 +112,7 @@
 *   [知乎收藏夹 - 怎样做一个只工作不上班的自由职业者](https://www.zhihu.com/collection/215602507)
 *   [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources.
 *   [NODESK](https://nodesk.co/) - A curated collection of resources for the digital nomad, remote worker and traveling professional.
+*   [No Stairs Please](https://nostairsplease.com/mcp) - Free live-music venue directory and remote MCP server for independent musicians, touring acts, and talent buyers across the US and Canada.
 *   [中国远程工作资料大全](https://github.com/greatghoul/remote-working) - 另一个 Github Awesome List
 *   [自学 Python 之后如果不去公司上班，自己一个人可以通过此技能挣什么钱？（@小猪）](docs/自学%20Python%20之后如果不去公司上班，自己一个人可以通过此技能挣什么钱？.md)
 
