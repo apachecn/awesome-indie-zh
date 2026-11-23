@@ -114,6 +114,7 @@
 *   [NODESK](https://nodesk.co/) - A curated collection of resources for the digital nomad, remote worker and traveling professional.
 *   [中国远程工作资料大全](https://github.com/greatghoul/remote-working) - 另一个 Github Awesome List
 *   [自学 Python 之后如果不去公司上班，自己一个人可以通过此技能挣什么钱？（@小猪）](docs/自学%20Python%20之后如果不去公司上班，自己一个人可以通过此技能挣什么钱？.md)
+*   [一人公司 AI 出海清单 / Awesome OPC Chuhai](https://github.com/OPCchuhai/awesome-opc-chuhai) - 面向华人一人公司的出海资源清单，覆盖大模型与 MCP、建站、跨境收款与获客。
 
 ## 短篇
 
