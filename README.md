@@ -114,6 +114,7 @@
 *   [NODESK](https://nodesk.co/) - A curated collection of resources for the digital nomad, remote worker and traveling professional.
 *   [中国远程工作资料大全](https://github.com/greatghoul/remote-working) - 另一个 Github Awesome List
 *   [自学 Python 之后如果不去公司上班，自己一个人可以通过此技能挣什么钱？（@小猪）](docs/自学%20Python%20之后如果不去公司上班，自己一个人可以通过此技能挣什么钱？.md)
+- [CreoArt](https://creoart.app/pay-as-you-go-ai-generator) - 按量付费私密 AI 图像与视频工作室（45 个模型，积分永不过期）+ 免费本地浏览器 PSD 编辑器。
 
 ## 短篇
 
